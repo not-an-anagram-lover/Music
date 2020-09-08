@@ -6,6 +6,6 @@ Creating a dataset of 1765 songs labeled with relevant song features, and lyrics
 ### About Collaborators:
 |   |  |  |
 | ------------- | ------------- | ------------- |
-#### | Name  | Kshitija Saxena  | Pratima Nisha |
-#### | Email | saxenakshitija@gmail.com | pratima.nisha8@gmail.com |
-#### | LinkedIn | https://github.com/not-an-anagram-lover | https://www.linkedin.com/in/pratima-nisha-9a10ba170 |
+| Name  | Kshitija Saxena  | Pratima Nisha |
+| Email | saxenakshitija@gmail.com | pratima.nisha8@gmail.com |
+| LinkedIn | https://github.com/not-an-anagram-lover | https://www.linkedin.com/in/pratima-nisha-9a10ba170 |
