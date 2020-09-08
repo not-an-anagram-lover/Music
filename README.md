@@ -8,3 +8,9 @@ Creating a dataset of 1765 songs labeled with relevant song features, and lyrics
 #### <Name: Kshitija Saxena>                                  <Name: Pratima Nisha>
 #### <Email: saxenakshitija@gmail.com>                        <Email: pratima.nisha8@gmail.com>
 #### <LinkedIn: https://github.com/not-an-anagram-lover>      <LinkedIn: https://www.linkedin.com/in/pratima-nisha-9a10ba170>
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Name  | Content Cell  |
+| Email | Content Cell  |
+| LinkedIn |            |
